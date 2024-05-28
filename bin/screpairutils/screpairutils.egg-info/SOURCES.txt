@@ -1,0 +1,13 @@
+setup.py
+screpairutils/__init__.py
+screpairutils/asisisites.py
+screpairutils/chromdicttools.py
+screpairutils/literals.py
+screpairutils/load_data.py
+screpairutils/load_posarray_and_mappability.py
+screpairutils/scalingfactor.py
+screpairutils.egg-info/PKG-INFO
+screpairutils.egg-info/SOURCES.txt
+screpairutils.egg-info/dependency_links.txt
+screpairutils.egg-info/requires.txt
+screpairutils.egg-info/top_level.txt
