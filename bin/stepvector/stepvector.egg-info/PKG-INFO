@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: stepvector
+Version: 0.4.0
+Summary: python3 bottom-up implementation of stepvector
+Author: K. Rooijers
+Author-email: k.rooijers@hubrecht.eu
+Keywords: bioinformatics
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Requires-Dist: sortedcontainers
