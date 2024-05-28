@@ -1,0 +1,9 @@
+setup.py
+msr/__init__.py
+msr/msr.py
+msr/segmentgraph.py
+msr.egg-info/PKG-INFO
+msr.egg-info/SOURCES.txt
+msr.egg-info/dependency_links.txt
+msr.egg-info/requires.txt
+msr.egg-info/top_level.txt
